@@ -1,8 +1,7 @@
 # W5-homework
 
-``` 
-deployed link
-```
+## Deployed link
+https://aurorachama.github.io/W5-homework/
 ## Purpose
 The purpose of this webpage is to create a Day (Working hour) Scheduler for users to save hourly event happens at a daily basis.
 
@@ -31,3 +30,6 @@ https://getbootstrap.com/
 https://fonts.google.com/
 * Moment.js <br>
 https://momentjs.com/
+
+## Screenshot
+![Preview Webpage](screenshot.png)

@@ -1,7 +1,7 @@
-# W5-homework
+# Working-hour-Scheduler
 
 ## Deploy link
-https://aurorachama.github.io/W5-homework/
+https://aurorachama.github.io/Working-hour-Scheduler/
 ## Purpose
 The purpose of this webpage is to create a Day (Working hour) Scheduler for users to save hourly event happens at a daily basis.
 
